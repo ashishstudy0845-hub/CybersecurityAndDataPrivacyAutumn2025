@@ -2,4 +2,6 @@
 
 | Date | Used hours | Subject(s) | Outcome(s) |
 |------|------------|------------|------------|
-| 09.11.2025 | 2 | Setting up Git repository and studying cybersecurity fundamentals | Created course repository, completed cybersecurity quizzes on cloud computing, network security, and malware types |
+| 29.10.2025 | 2 |  studying cybersecurity fundamentals | gone through the introduction to cybersecurity |
+| 01.11.2025 | 1 |  cybersecurity fundamentals | Finished the module 1 study material |
+| 03.11.2025 | 4 | module 2 | Gone through the content of module 2  |
